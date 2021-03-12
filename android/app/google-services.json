@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073062172031",
+    "project_id": "maixflutterfirebase",
+    "storage_bucket": "maixflutterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073062172031:android:d5246a09d843b36f45364a",
+        "android_client_info": {
+          "package_name": "com.example.maxim_caht_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073062172031-oma12jsnjusk83g0s83rnuj04kiu2kf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyKm_vJueOpKnaSQR3EolfUYYea51-pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073062172031-oma12jsnjusk83g0s83rnuj04kiu2kf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
